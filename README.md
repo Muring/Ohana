@@ -119,7 +119,7 @@
   - 이미지 리소스 생성 및 업로드 (Static Resources)
   - Carousel 슬라이드 컴포넌트 (LWC)
   - Lead Form 컴포넌트 (LWC)<br>
-    <img alt="title" src="images/web-to-lead-1.png" width="800px">
+    <img alt="title" src="images/web-to-lead.png" width="800px">
 - Opportunity 페이지 레이아웃 및 개발
   - Path 설정 및 지표 작성<br>
     <img alt="title" src="images/oppty-process.png" width="800px">
