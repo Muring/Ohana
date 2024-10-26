@@ -17,7 +17,7 @@
 **엄세현**(PL, Admin, Developer)<br>
 박정한(Admin, Developer)<br>
 장윤지(Admin, Developer)<br>
-<img alt="group" src="images/group02.png" width="400px"><br>
+<img alt="group" src="images/group02.JPG" width="400px"><br>
 왼쪽부터 박정한, 장윤지, 천송희, 엄세현 입니다.
 
 ## 소개
@@ -129,9 +129,12 @@
 <br>
 
 ## 최종 결과 영상
+
 [신규 고객 프로세스]<br>
 [![신규 고객 프로세스](http://img.youtube.com/vi/Cv1ZEN650OQ/0.jpg)](https://youtu.be/Cv1ZEN650OQ)<br><br>
 [기존 고객 프로세스]<br>
 [![기존 고객 프로세스](http://img.youtube.com/vi/O4k55pAiSh4/0.jpg)](https://youtu.be/O4k55pAiSh4)<br>
+
 ---
+
 [청년 CRM101 간단 후기 보러가기](https://github.com/Muring/crm101.git)
