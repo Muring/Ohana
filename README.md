@@ -99,6 +99,18 @@
 
 - 프로젝트 매니저 (PM)
 - Salesforce Admin
+- 각 프로파일 별 홈 대시보드
+  - 영업사원<br>
+    <img alt="title" src="images/sales-home.png" width="800px">
+  - 본부장<br>
+    <img alt="title" src="images/bonbujang-home.png" width="800px">
+  - 임원진<br>
+    <img alt="title" src="images/imwonjin-home.png" width="800px">
+- Quote 페이지 레이아웃 및 개발
+  - Path 설정 및 지표 작성
+  - Path에 따른 동적 버튼
+  - 견적서 자동 PDF 전환
+  - Validation Rule 적용
 
 #### 엄세현
 
@@ -106,23 +118,46 @@
 - 웹 페이지 디자인 및 개발 (Web-To-Lead; Experience Cloud)
   - 이미지 리소스 생성 및 업로드 (Static Resources)
   - Carousel 슬라이드 컴포넌트 (LWC)
-  - Lead Form 컴포넌트 (LWC)
+  - Lead Form 컴포넌트 (LWC)<br>
+    <img alt="title" src="images/web-to-lead-1.png" width="800px">
 - Opportunity 페이지 레이아웃 및 개발
-  - Path 설정 및 지표 작성
+  - Path 설정 및 지표 작성<br>
+    <img alt="title" src="images/oppty-process.png" width="800px">
   - Field 배치 및 추가
-  - 자동 Stage 업데이트 Flow 작성
-  - Opportunity Validation Rule 추가
+  - 자동 Stage 업데이트 Flow 작성<br>
+    <img alt="title" src="images/oppty-flow-list.png" width="800px">
+    <img alt="title" src="images/oppty-flow.png" width="800px">
+  - Opportunity Validation Rule 추가<br>
+    <img alt="title" src="images/oppty-validation1.png" width="800px">
+    <img alt="title" src="images/oppty-validation2.png" width="800px"><br>
   - Quick Order 컴포넌트 개발 (LWC)
+    - 주문이 입력되었는지 안되었는지 확인하여 사용자가 쉽게 알아볼 수 있도록 표시
+    - 입력칸을 벗어나면 숫자 확인이 쉽도록 ,로 단위 표시<br>
+      <img alt="title" src="images/oppty-order.png" width="400px">
   - Quick Campaign Add 컴포넌트 개발 (Screen Flow)
+    - 이미 추가된 캠페인인 경우 예외 처리
+    - 성공 처리<br>
+      <img alt="title" src="images/oppty-campaign.png" width="400px">
+      <img alt="title" src="images/oppty-campaign2.png" width="400px">
 - 고객 페이지 지도 컴포넌트 개발 (LWC; Standard map)
+  <img alt="title" src="images/account-map.png" width="800px">
 
 #### 박정한
 
 - Salesforce Developer
+- Opportunity 매출 현황 컴포넌트 개발(LWC)<br>
+  <img alt="title" src="images/oppty-sales-status1.png" width="800px">
+  <img alt="title" src="images/oppty-sales-status2.png" width="800px">
+- Account 요약 대시보드<br>
+  <img alt="title" src="images/account-dashboard.png" width="800px">
 
 #### 장윤지
 
 - Salesforce Developer
+- Opportunity 견적 컴포넌트 개발(LWC)<br>
+  <img alt="title" src="images/oppty-quote-comparison.png" width="800px">
+- Oppty closed 시, 자동 Contract 생성 및 첫 Order 생성 Flow
+- 그 외 기타 등등
 
 <br>
 
