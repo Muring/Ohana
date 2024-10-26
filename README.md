@@ -17,7 +17,7 @@
 **엄세현**(PL, Admin, Developer)<br>
 박정한(Admin, Developer)<br>
 장윤지(Admin, Developer)<br>
-<img alt="group" src="images/group02.JPG" width="400px"><br>
+<img alt="group" src="images/group02.JPG" width="800px"><br>
 왼쪽부터 박정한, 장윤지, 천송희, 엄세현 입니다.
 
 ## 소개
