@@ -1,7 +1,7 @@
 # Ohana-Liquor
 
 <p align="center">
-  <img alt="title" src="images/ohana-title.png" width="800px">
+  <img alt="title" src="images/ohana-liquor-title.png" width="800px">
 </p>
 
 <br>
