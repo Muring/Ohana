@@ -6,6 +6,13 @@
 
 <br>
 
+## Link
+
+Web-to-Lead 페이지: https://crm1018-dev-ed.develop.my.salesforce.com/servlet/networks/switch?networkId=0DBdL000000Fnzh<br>
+Org 주소: https://crm1018-dev-ed.develop.lightning.force.com/lightning/setup/SetupOneHome/home<br>
+아이디: esh5218@hexagon.com<br>
+비밀번호: sample123<br>
+
 ## 개요
 
 프로젝트명: Ohana Liquor
